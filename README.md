@@ -1,1 +1,1 @@
-CPSC Deep Learning 8430 Homeworks.
+CPSC 8430 Deep Learning Homeworks.
